@@ -1,0 +1,33 @@
+FileName, CommitSha
+NOBELIUM - Script payload stored in Registry.json,30cb4ceb1fa748787bb70e2b17892a104e026751
+Sdelete deployed via GPO and run recursively.json,3069921a88d3ab7f9829d2c098b978062111bf14
+Windows Binaries Executed from Non-Default Directory.json,c48d67aa149cfab2cbb3142d545a8660be0ec729
+Known GALLIUM domains and hashes.json,7361da5f3200599d0e6dc137dedd2369a535d1eb
+Potential re-named sdelete usage.json,2fe6c7883c591e2523d24e9d5625818df2e1c539
+Multiple Password Reset by user.json,b5788bbf0180bc8fbc798c42d283afe09e7b9ef3
+Potential Fodhelper UAC Bypass.json,9726ed4b661323a56b59672ee932f9fd6e3b1a0a
+Known ZINC Comebacker and Klackring malware hashes.json,d99f2bd962920950add605e40b78a2245b299a16
+AAD Local Device Join Information and Transport Key Registry Keys Access.json,5a345a9a70a5f46eceb50e12792d97b101ee3260
+Security Service Registry ACL Modification.json,d3cf6120fde31588310f5afdf9ef88d0ed84d32e
+RDP Nesting.json,6641b486d8a766cf182dada437d4f974cebb22b6
+Known Barium IP.json,4721c8197c4f41daf024e3648a59c0c10d2f7754
+Exchange Server Vulnerabilities Disclosed March 2021 IoC Match.json,6a7f6a71cd3032c44c61105aae48f6d722700a41
+Excessive Windows logon failures.json,df3b555d4cb752c029935fd2ebbac18842492246
+Rare RDP Connections.json,80fd5552d64c49bf52e1d7ab7916e90a5ae76ffe
+Service Principal Name (SPN) Assigned to User Account.json,56bb61be4caa915b454eb875b33199698cc20a08
+Account added and removed from privileged groups.json,74be1263f0f5b10700f6e4933e7ac85816232256
+Group created then added to built in domain local or global group.json,a62bf4495633aca4471f84a085a41148f18db2fb
+Process executed from binary hidden in Base64 encoded file.json,851e67bc308d48f5e236f7474a12953c88fd450c
+HAFNIUM New UM Service Child Process.json,2afd465e1da8aeaf71bcd9a8acea90c804783d2f
+AD user enabled and password not set within 48 hours.json,b43a2ee7f5d636c557d66253b00f8cb0e228896e
+Known IRIDIUM IP.json,d861b5ca21f7701108e4713820df2656cf88a551
+User account created and deleted within 10 mins.json,35f3f86aac4a69a47fc8d7f2389c0bbd45418735
+Possible Resource-Based Constrained Delegation Abuse.json,ef636ef8d086fa6769d9ca1fed49606dafe2c4c2
+Potential Remote Desktop Tunneling.json,1321bb5a87a440b858fa4b8743796b6d4e774910
+User account enabled and disabled within 10 mins.json,fb1a66c2715c7eea5882b9452e6383a27ba4d66e
+SecurityEvent - Multiple authentication failures followed by a success.json,854772a26ca4d6ac2bd65b0c0c8f6023a54d7e31
+Failed logon attempts by valid accounts within 10 mins.json,b03a033229a007f8380a3916adc86a39349b0f1a
+Known NICKEL domains and hashes.json,7361da5f3200599d0e6dc137dedd2369a535d1eb
+Malware in the recycle bin.json,d7b2c979ed5be768f31fa8b9b339efc5d880a476
+Potential Build Process Compromise.json,9446913d89d0fa069d42187d9fffb27f81573980
+Fake computer account created.json,5ee5cedebe4f0b6b1c4153ddd632a30e6a272f0f
